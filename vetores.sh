@@ -20,5 +20,5 @@ linguagens[3]="php"
 
 for ((i=0; i<${tam_vet}; i++))
 do
-	echo "vetor[$i] : ${linguagens[$i]}"
+	echo "linguagens[$i] : ${linguagens[$i]}"
 done
